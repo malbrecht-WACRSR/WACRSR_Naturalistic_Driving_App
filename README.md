@@ -1,6 +1,6 @@
 # WACRSR Naturalistic Driving App
 ## Privacy Policy
-You have been asked to take part in a study using this app because you are at the age of 17 years or above, hold a driver’s license, and drive on Australian roads.
+This app collects information about your location while active and in the background.
 
 The naturalistic driving app collects GPS and accelerometry data as you drive your own vehicle. When you tap the "Logging" button, your GPS and accelerometry data will be recorded by the app, saved to your phone, before being securely uploaded to a Google Firebase server. You will be able to turn off the logger by touching the "Stop Logging" button or the logger will automatically turn off after 1 hour. Attached to the data will be a unique ID code that is a series of random numbers and letters, this is so we can track individuals across our studies.
 
